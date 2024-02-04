@@ -1,12 +1,18 @@
-<h1 font-weight: 100;
-  color: #00cc7c;
-  font-size: 32px;
-  align="middle">
-  <a href="https://github.com/slenderme"> Izatulla Asadulla </a> 
-</h1>
-  
-<h1 align="center">
+<h1  align="center">
+  <a href="https://github.com/slenderme"> 
+    Izatulla Asadulla<br> 
+  </a>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Привет!+👋;Я+альфа+фулл+стэк+программист+на+Python;Приятно+познакомиться!;&center=true&size=30&color=00cc7c">
+    <br><img src="https://readme-typing-svg.herokuapp.com/?lines=Привет!+👋;Я+альфа+фулл+стэк+программист;на:+Python,+HTML,+JavaScript;Приятно+познакомиться!;&center=true&size=25&color=497e76">
   </a>
 </h1>
+
+<p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
+<h1 @font-face {
+    font-family: F16;
+    src: url("../Cyberpank/F16_Panel Font.ttf") format('truetype');
+    font-weight: bold;
+    font-style: normal;
+} >
+
+
