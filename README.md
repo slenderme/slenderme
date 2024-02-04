@@ -8,11 +8,16 @@
 </h1>
 
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
-<h1 @font-face {
-    font-family: F16;
-    src: url("../Cyberpank/F16_Panel Font.ttf") format('truetype');
-    font-weight: bold;
-    font-style: normal;
-} >
 
+Обо мне:
+- люблю музыку
 
+Хард скиллы:
+- базовые знания языка JavaScript
+- продвинутые знания языка Python
+
+ Софт скиллы:
+ - комуникабелен
+ - позитивен
+ - соблюдаю правила чистого кода
+   
